@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./centoimprese00cuom_0047.png"; bbox 0 0 2538 3294; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 13 2255 507 2596">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 13 2255 507 2596">
+     <span class='ocr_line' id='line_1_1' title="bbox 18 2255 461 2326; baseline 0.038 -26"><span class='ocrx_word' id='word_1_1' title='bbox 18 2255 235 2313; x_wconf 64' lang='lat' dir='ltr'><strong>§ptumum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 243 2263 461 2326; x_wconf 62' lang='lat' dir='ltr'><strong>dustrem,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 30 2314 472 2392; baseline 0 -7"><span class='ocrx_word' id='word_1_3' title='bbox 30 2314 83 2362; x_wconf 47' lang='grc' dir='ltr'><strong>θ’*</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 92 2319 472 2392; x_wconf 58' lang='lat' dir='ltr'><strong>Rev-«renum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 25 2391 507 2453; baseline 0.012 -18"><span class='ocrx_word' id='word_1_5' title='bbox 25 2391 151 2439; x_wconf 63' lang='lat' dir='ltr'>nella.</span> <span class='ocrx_word' id='word_1_6' title='bbox 160 2400 507 2453; x_wconf 57' lang='lat' dir='ltr'><strong>mormannum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 13 2461 449 2531; baseline 0.016 -26"><span class='ocrx_word' id='word_1_7' title='bbox 13 2461 418 2531; x_wconf 61' lang='lat' dir='ltr'><strong>Jucte&#39;bendnuvespe</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 440 2483 449 2496; x_wconf 88' lang='lat'><strong>·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 43 2534 468 2596; baseline 0.021 -16"><span class='ocrx_word' id='word_1_9' title='bbox 43 2534 181 2583; x_wconf 68' lang='lat' dir='ltr'>elsae</span> <span class='ocrx_word' id='word_1_10' title='bbox 199 2538 425 2596; x_wconf 65' lang='lat' dir='ltr'><strong>Gcar&#39;ben.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 457 2585 468 2594; x_wconf 82' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 547 504 2061 3081">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 547 504 2061 3081">
+     <span class='ocr_line' id='line_1_6' title="bbox 547 504 2061 3081; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 547 504 2061 3081; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2384 58 2484 103">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2384 58 2484 103">
+     <span class='ocr_line' id='line_1_7' title="bbox 2384 58 2484 103; baseline 0.02 -2"><span class='ocrx_word' id='word_1_13' title='bbox 2384 58 2484 103; x_wconf 71' lang='lat'><strong>‘22</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
